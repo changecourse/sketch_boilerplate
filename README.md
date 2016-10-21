@@ -5,7 +5,7 @@ We've built interfaces for a large variety of applications, and we've always run
 So we created a standard set of sketch symbols, text styles, and shared styles in order to create efficiencies across the entire workflow. We spent time deciding on appropriate baseline hierarchies for typography, form field best practices, rem-based flexible grids, and more. The symbols are responsive-minded and stretchable from 320 mobile through ultra hd desktop. 
 
 We've put this template to the test as a starter file for a couple of projects, and have had great success in speed and efficiency, particularly transitioning from low fidelity wireframes to visual design. Our goal was to provide a set of components that felt less like a contstained bootstrap pattern library, and more of an adaptable approach to interface design. 
-
+</br> 
 
 
 ### How to Use ###
@@ -21,7 +21,7 @@ We've put this template to the test as a starter file for a couple of projects, 
 5. Navigate to the "Grid Templates" page; copy and paste one of the following artboards for your initial designs... this will pass a dedicated layout/grid to all of your subsequent artboards.
 
 6. We've also provided some of the latest google material designs for easy access 
-
+</br> 
 
 
 ### Your Feedback is Requested ###
