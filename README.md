@@ -7,6 +7,13 @@ So we created a standard set of sketch symbols, text styles, and shared styles i
 We've put this template to the test as a starter file for a couple of projects, and have had great success in speed and efficiency, particularly transitioning from low fidelity wireframes to visual design. Our goal was to provide a set of components that felt less like a contstained bootstrap pattern library, and more of an adaptable approach to interface design. 
 
 
+###Introduction###
+
+Take a look at the Example page artboard, specifically each of the layers used... All of them are tied to corresponding symbols, text styles, and/or shared styles, which are globally defined for the whole document. What does that mean? Let's say you have an application flow spanning 50+ different screen states. With this design system, you can update one element and push it out to all iterations of it.
+
+We've provided some sensible defaults, but this framework is mostly meant to facilitate a good structure and process for your production design workflow.
+
+
 
 ### How to Use ###
 
