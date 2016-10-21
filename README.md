@@ -1,6 +1,4 @@
-# Work smarter, not harder. #
-## A default template for organizing your design files. ##
-
+## Work smarter, not harder. A default template for organizing your design files. ##
 
 We've built interfaces for a large variety of applications, and we've always run into the same problems... reinventing the wheel for basic components, abandoning our wireframes assets once we start design, and having to go in and clean up our messy files after the fact so others can pick up where we left off. In short, we've spent too much time pixel-pushing, at the expense of time spent exploring the best approach to any given problem. 
 
