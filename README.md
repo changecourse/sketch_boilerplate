@@ -19,6 +19,8 @@ We've provided some sensible defaults, and this framework is meant to facilitate
 
 ### How to Use ###
 
+This sketch file utiizes the San Francisco font for some of the iOS symbols we've included. If you do not have this font already, head to https://github.com/AppleDesignResources/SanFranciscoFont and download the associated otf files. 
+
 1. Navigate to the "Style Masters" page; think of this as your global control center for the project.
 
 2. Update the colors and typography as you see fit. (We've come up with some defaults to get you started)
