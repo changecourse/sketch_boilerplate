@@ -9,7 +9,7 @@ We've already put this template to the test, as a starter file for a couple of p
 Our goal for this framework is to provide a base set of components to build on, which feel less like a contstained bootstrap pattern library, and more of an adaptable approach to interface design. 
 
 
-###Introduction###
+### Introduction ###
 
 Take a look at the "Example" page artboard, specifically each of the layers used... Each of these elements are tied to either corresponding symbols, text styles, or shared styles, which are globally defined. What does that mean? Let's say you have an application flow spanning 50+ different screen states. With this design system, you can update one element and push it out to all iterations of it.
 
