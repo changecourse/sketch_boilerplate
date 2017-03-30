@@ -9,7 +9,7 @@ We've already put this template to the test, as a starter file for a couple of p
 Our goal for this framework is to provide a base set of components to build on, which feel less like a contstained bootstrap pattern library, and more of an adaptable approach to interface design. 
 
 
-###Introduction###
+### Introduction ###
 
 Take a look at the "Example" page artboard, specifically each of the layers used... Each of these elements are tied to either corresponding symbols, text styles, or shared styles, which are globally defined. What does that mean? Let's say you have an application flow spanning 50+ different screen states. With this design system, you can update one element and push it out to all iterations of it.
 
@@ -18,6 +18,8 @@ We've provided some sensible defaults, and this framework is meant to facilitate
 
 
 ### How to Use ###
+
+This sketch file utiizes the San Francisco font for some of the iOS symbols we've included. If you do not have this font already, head to https://github.com/AppleDesignResources/SanFranciscoFont and download the associated otf files. 
 
 1. Navigate to the "Style Masters" page; think of this as your global control center for the project.
 
